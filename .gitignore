@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Downloaded CIFAR-10 dataset (large; downloaded automatically by the script)
+data/
+
+# Local experiment outputs
+prediction.png
+
